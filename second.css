@@ -1,0 +1,64 @@
+.head {
+
+    font-size: 15px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.firstimage {
+    width: 20%
+}
+
+.secondimage {
+    width: 35%
+}
+
+.thirdimage {
+    width: 20%
+}
+
+.tone {
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px gray;
+    width: 20%;
+    height: 40%;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.fin {
+
+    margin-left: 15%;
+}
+
+.immg {
+    width: 400px;
+    margin-top: 60px;
+    float: left;
+}
+
+.fi {
+    color: gray;
+    font-size: 10px;
+   
+}
+
+.totall {
+
+    padding-top: 50px;
+    padding-left: 60%;
+    margin-top: 5px;
+
+}
+
+.lastone {
+    width: 40px
+}
+
+.headone {
+
+    font-size: 15px;
+    width: 80%;
+    margin-left: 10%;
+}

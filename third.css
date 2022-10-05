@@ -1,0 +1,24 @@
+.fst {
+    border: 1px solid red;
+}
+
+.formm {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+
+
+}
+
+.textarea {
+
+    margin-left: 190px;
+    
+}
+.headone{
+    
+    width: 80%;
+    margin-left: 50px;
+}
